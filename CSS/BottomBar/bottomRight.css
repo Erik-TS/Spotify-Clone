@@ -1,0 +1,19 @@
+.bottomRightContainer{
+    margin: 1.7rem 0 0 0;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.bottomRightContainer img{
+    vertical-align: middle;
+    margin: 0.3rem;
+}
+
+.volumeBar{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+    margin: auto 1rem auto 0;
+    border-radius: 1rem;
+}

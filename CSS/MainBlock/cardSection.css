@@ -1,0 +1,32 @@
+.albumCard{
+    border-radius: 0.5rem;
+    width: 13%;
+    height: auto;
+    background-color: #181818;
+    margin: 1rem 0;
+    padding: 0.5rem;
+}
+
+.albumCard h4, h5{
+    margin: 0.5rem 0;
+    font-family: 'Roboto';
+    padding-left: 0.5rem;
+}
+
+.cardRow{
+    display: flex;
+    justify-content:space-between;
+}
+
+.imgSquare{
+    background-color: blueviolet;
+    height: 150px;
+    width: 90%;
+    margin: 0.5rem auto;
+}
+
+.titleCardSection{
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 2rem;
+}

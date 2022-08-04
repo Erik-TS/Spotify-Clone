@@ -1,0 +1,32 @@
+.playerButtons{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.playerButtons img{
+    vertical-align: middle;
+    margin: 0 7px;
+}
+
+.playerContainer{
+    margin: 0.5rem;
+}
+
+.progressBar{
+    background-color: white;
+    height: 0.2rem;
+    width: 70%;
+    display: inline-block;
+    margin: auto 0.5rem;
+    border-radius: 1rem;
+}
+
+.progressBarContainer{
+    display: flex; 
+    justify-content: center;
+}
+
+.progressTime{
+    display: inline-block;
+    margin: 0;
+}

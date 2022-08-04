@@ -1,0 +1,13 @@
+.listIcon{
+    margin-right: 0.5rem;
+    display: inline;
+}
+
+.sidebarList li{
+    display: flex;
+}
+
+.sidebarList p{
+    white-space: nowrap;
+    margin: auto 0;
+}

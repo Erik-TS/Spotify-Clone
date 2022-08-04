@@ -1,0 +1,57 @@
+.topControls{
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    margin-top: 1rem;
+}
+
+.pagePrevNext{
+    display: flex;
+    width: 100%;
+}
+
+.pagePrevNext div{
+    display: flex;
+    width: 100%;
+    margin-left: 1rem;
+}
+
+.prevNext{
+    color: white;
+    background-color: rgb(28, 28, 28);
+    border-radius: 5rem;
+    padding: 0.3rem;
+    margin: 0.1rem;
+    height: 1.7rem;
+    width: 1.5rem;
+    border: none;
+}
+
+.upgradeAndUser{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.upgradeAndUser div{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    margin-right: 1rem;
+}
+
+.upgradeAndUser input{
+    font-family: 'Roboto sans-serif', monospace;
+    border-radius: 1rem;
+}
+
+.upgrade{
+    background-color: transparent;
+    color: white;
+    padding: 0.3rem;
+    border: 2px solid gray;
+}
+
+.user{
+    border: none;
+}
