@@ -1,11 +1,11 @@
 .playerButtons{
-    text-align: center;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .playerButtons img{
-    vertical-align: middle;
     margin: 0 7px;
+    vertical-align: middle;
 }
 
 .playerContainer{
@@ -14,11 +14,11 @@
 
 .progressBar{
     background-color: white;
-    height: 0.2rem;
-    width: 70%;
-    display: inline-block;
-    margin: auto 0.5rem;
     border-radius: 1rem;
+    display: inline-block;
+    height: 0.2rem;
+    margin: auto 0.5rem;
+    width: 70%;
 }
 
 .progressBarContainer{

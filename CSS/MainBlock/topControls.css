@@ -1,8 +1,8 @@
 .topControls{
     display: flex;
-    width: 100%;
     height: fit-content;
     margin-top: 1rem;
+    width: 100%;
 }
 
 .pagePrevNext{
@@ -13,43 +13,41 @@
 .pagePrevNext div{
     display: flex;
     width: 100%;
-    margin-left: 1rem;
 }
 
 .prevNext{
-    color: white;
     background-color: rgb(28, 28, 28);
-    border-radius: 5rem;
-    padding: 0.3rem;
-    margin: 0.1rem;
-    height: 1.7rem;
-    width: 1.5rem;
     border: none;
+    border-radius: 5rem;
+    color: white;
+    height: 1.7rem;
+    margin: 0.1rem;
+    padding: 0.3rem;
+    width: 1.5rem;
 }
 
 .upgradeAndUser{
     display: flex;
-    width: 100%;
     justify-content: flex-end;
+    width: 100%;
 }
 
 .upgradeAndUser div{
     display: flex;
-    width: 100%;
     justify-content: flex-end;
-    margin-right: 1rem;
+    width: 100%;
 }
 
 .upgradeAndUser input{
-    font-family: 'Roboto sans-serif', monospace;
     border-radius: 1rem;
+    font-family: 'Roboto sans-serif', monospace;
 }
 
 .upgrade{
     background-color: transparent;
+    border: 2px solid gray;
     color: white;
     padding: 0.3rem;
-    border: 2px solid gray;
 }
 
 .user{

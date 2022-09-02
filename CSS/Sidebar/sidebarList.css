@@ -5,6 +5,7 @@
 
 .sidebarList li{
     display: flex;
+    margin: 0.5rem 0;
 }
 
 .sidebarList p{
